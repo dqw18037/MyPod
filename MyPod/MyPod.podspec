@@ -1,7 +1,7 @@
 #Mypod.podspec
 Pod::Spec.new do |s|
 s.name         = "Mypod"
-s.version      = "1.0.0"
+s.version      = "master"
 s.summary      = "a light weight and easy to use tableview slide effect."
 
 s.homepage     = "https://github.com/dqw18037/MyPod"
