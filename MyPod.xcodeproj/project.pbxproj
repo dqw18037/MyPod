@@ -15,6 +15,8 @@
 		596B17681C2FD84B0036E8C2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 596B17661C2FD84B0036E8C2 /* LaunchScreen.xib */; };
 		596B17741C2FD84B0036E8C2 /* MyPodTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 596B17731C2FD84B0036E8C2 /* MyPodTests.m */; };
 		596B177E1C2FD9350036E8C2 /* MyPod.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 596B177D1C2FD9350036E8C2 /* MyPod.podspec */; };
+		596B17801C2FDFEC0036E8C2 /* README.MD in Sources */ = {isa = PBXBuildFile; fileRef = 596B177F1C2FDFEC0036E8C2 /* README.MD */; };
+		596B17821C2FE0000036E8C2 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 596B17811C2FE0000036E8C2 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +44,8 @@
 		596B17721C2FD84B0036E8C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		596B17731C2FD84B0036E8C2 /* MyPodTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyPodTests.m; sourceTree = "<group>"; };
 		596B177D1C2FD9350036E8C2 /* MyPod.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MyPod.podspec; sourceTree = "<group>"; };
+		596B177F1C2FDFEC0036E8C2 /* README.MD */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.MD; sourceTree = "<group>"; };
+		596B17811C2FE0000036E8C2 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +96,8 @@
 				596B17661C2FD84B0036E8C2 /* LaunchScreen.xib */,
 				596B17571C2FD84B0036E8C2 /* Supporting Files */,
 				596B177D1C2FD9350036E8C2 /* MyPod.podspec */,
+				596B177F1C2FDFEC0036E8C2 /* README.MD */,
+				596B17811C2FE0000036E8C2 /* LICENSE */,
 			);
 			path = MyPod;
 			sourceTree = "<group>";
@@ -206,6 +212,7 @@
 				596B17681C2FD84B0036E8C2 /* LaunchScreen.xib in Resources */,
 				596B177E1C2FD9350036E8C2 /* MyPod.podspec in Resources */,
 				596B17651C2FD84B0036E8C2 /* Images.xcassets in Resources */,
+				596B17821C2FE0000036E8C2 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,6 +232,7 @@
 			files = (
 				596B17601C2FD84B0036E8C2 /* ViewController.m in Sources */,
 				596B175D1C2FD84B0036E8C2 /* AppDelegate.m in Sources */,
+				596B17801C2FDFEC0036E8C2 /* README.MD in Sources */,
 				596B175A1C2FD84B0036E8C2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
