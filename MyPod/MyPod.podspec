@@ -10,6 +10,6 @@ s.author       = { "dqw18037" => "dqwdlut@qq.com" }
 s.platform     = :ios, "7.0"
 s.ios.deployment_target = "7.0"
 s.source       = { :git => "https://github.com/dqw18037/MyPod.git", :tag => s.version}
-s.source_files  = 'MyPod/*.{h,m}'
+s.source_files  = 'MyPod/MyPod/*.{h,m}'
 s.requires_arc = true
 end
